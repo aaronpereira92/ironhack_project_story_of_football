@@ -1,0 +1,4 @@
+team,goals/game_rank,against/game_rank,deep_rank,deep_allowed_rank,ppda_rank,ppda_coef_rank,win_ratio_rank,overall,overall_rank
+Bayern Munich,3.0,4.0,6.0,2.0,2.0,2.0,2.0,3.0,1.0
+Manchester City,5.0,7.0,1.0,5.0,7.0,1.0,3.0,4.142857142857143,2.0
+Paris Saint Germain,4.0,6.0,7.0,3.0,4.0,5.0,4.0,4.714285714285714,3.0
