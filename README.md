@@ -29,3 +29,9 @@ main.py is the .py file of the main.ipynb
 -_tableau: contains tableau workbook for the project. EDA and modelling resuls displayed here. 
 
 -_transformers: labelencoder_catord.sav, minmaxscaler_numericals.sav, onehotencoder_catnom.sav were all saved using Pickle. So use pickel to load them. They have been fitted with X_train data. 
+
+
+link to tableau workbook just incase:
+
+https://public.tableau.com/views/mid_project_aaron_pereira/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
