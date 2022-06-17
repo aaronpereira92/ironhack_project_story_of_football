@@ -22,12 +22,12 @@ Inside the project folder, there are multiple subfolders:
 
 
 - ### functions folder: 
-    contains the `functions.py` file for various function that can be imported:
-    - ```python num_cat_splitter``` : which takes the uderstat_per_game.csv (as a dataframe on pandas) and seperates into numerical and categorical.
-    - min_max : takes only numerical dataframes and normalizes it using min max scaler from sklearn
-    - label_encoder : takes categorical ordinal data and label encodes it using label encoder from sklearn
-    - oh_encoder: takes categorical nominal data and encodes it using OneHotEncoder from sklearn
-    - cleanin_football : needs both understat_com and understat_per_game, and cleans it by renaming first two columns and getting rid of Russian League data, it deals duplicates as well
+    - contains the `functions.py` file for various function that can be imported:
+       - num_cat_splitter : which takes the uderstat_per_game.csv (as a dataframe on pandas) and seperates into numerical and categorical.
+       - min_max : takes only numerical dataframes and normalizes it using min max scaler from sklearn
+       - label_encoder : takes categorical ordinal data and label encodes it using label encoder from sklearn
+       - oh_encoder: takes categorical nominal data and encodes it using OneHotEncoder from sklearn
+       - cleanin_football : needs both understat_com and understat_per_game, and cleans it by renaming first two columns and getting rid of Russian League data, it deals duplicates as well
 
 - ### images folder: 
    - images used in tableau presentation, including confusion matrixes
