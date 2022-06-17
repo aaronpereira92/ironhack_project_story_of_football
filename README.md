@@ -23,7 +23,7 @@ Inside the project folder, there are multiple subfolders:
 
 - ### functions folder: 
     contains the `functions.py` file for various function that can be imported:
-    - num_cat_splitter : which takes the uderstat_per_game.csv (as a dataframe on pandas) and seperates into numerical and categorical.
+    - ```num_cat_splitter``` : which takes the uderstat_per_game.csv (as a dataframe on pandas) and seperates into numerical and categorical.
     - min_max : takes only numerical dataframes and normalizes it using min max scaler from sklearn
     - label_encoder : takes categorical ordinal data and label encodes it using label encoder from sklearn
     - oh_encoder: takes categorical nominal data and encodes it using OneHotEncoder from sklearn
