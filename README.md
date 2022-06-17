@@ -1,8 +1,8 @@
 # ironhack_project_story_of_football
 This is my mid bootcamp project, where I carried out exploratory data analysis of Europe's top 5 leagues using Tableau. And also creating a logistic regression model to predict outcome of a match. 
 
-1. On this branch, there is one folder called project and that contains all the files
-   Inside the project folder, there are multiple subfolders:
+On this branch, there is one folder called project and that contains all the files
+Inside the project folder, there are multiple subfolders:
    
 ## Contents 
 - ### data folder: 
